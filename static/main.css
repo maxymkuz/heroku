@@ -1,0 +1,23 @@
+body {
+    background-image: url("../static/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+label {
+    font-size: 4em;
+}
+.center {
+    align-items: center;
+    text-align: center;
+}
+input {
+    height: 14vh;
+    font-size: 1.9em;
+    margin-top: 4vh;
+}
+#ipt {
+    width: 60%;
+}
+#main {
+    margin-top: 10vh;
+}
